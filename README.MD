@@ -3,6 +3,7 @@
 - st-scrollback-0.8.diff
 - st-scrollback-mouse-0.8.diff
 - st-vertcenter-20180320-6ac8c8a.diff
+- st-w3m-0.8.3.diff
 
 ## Keybindings
 Can be found in config.h
